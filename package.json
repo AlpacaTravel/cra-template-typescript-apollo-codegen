@@ -4,13 +4,19 @@
   "author": "Cam Manderson <cam@alpaca.travel>",
   "license": "MIT",
   "main": "template.json",
+  "bugs": {
+    "url": "https://github.com/AlpacaTravel/cra-template-typescript-apollo-codegen/issues"
+  },
+  "homepage": "https://github.com/AlpacaTravel/cra-template-typescript-apollo-codegen",
   "keywords": [
     "react",
     "create-react-app",
     "cra-template",
     "template",
-    "urql",
-    "alpaca"
+    "apollo",
+    "graphql",
+    "alpaca",
+    "travel"
   ],
   "files": [
     "template",
