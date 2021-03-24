@@ -26,6 +26,16 @@ settings for your project, including the Alpaca Travel API Keys.
 REACT_APP_GRAPHQL_ACCESS_TOKEN=pk/sk...
 ```
 
+## Documentation for Alpaca Travel GraphQL
+
+You can access the documentation for the
+[Alpaca Travel GraphQL](https://github.com/AlpacaTravel/graphql-docs)
+
+- [Example Operations](https://github.com/AlpacaTravel/graphql-docs/tree/master/example-operations)
+- [Topics](https://github.com/AlpacaTravel/graphql-docs#topics)
+- [Tutorials](https://github.com/AlpacaTravel/graphql-docs#tutorials)
+- [Example Applications](https://github.com/AlpacaTravel/graphql-docs#example-applications)
+
 ## Using GraphQL
 
 Create a folder `src/graphql` and write your GraphQL documents there. You
