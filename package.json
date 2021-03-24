@@ -1,6 +1,6 @@
 {
   "name": "@alpaca-travel/cra-template-typescript-apollo-codegen",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "author": "Cam Manderson <cam@alpaca.travel>",
   "license": "MIT",
   "main": "template.json",
